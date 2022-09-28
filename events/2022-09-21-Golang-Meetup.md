@@ -1,6 +1,6 @@
 # Golang MeetUp
-Date: 21/09/2022
-Location: Monzo Bank, London
+- Date: 21/09/2022
+- Location: Monzo Bank, London
 
 Talks: 
 - Talha Altinel - Bundling Tasks with Task File
@@ -37,3 +37,9 @@ Angad Nadkarni demonstrated extreme optimisation of their code.
 Screenshot taken from: https://www.youtube.com/watch?v=-NW7Z-JHOIA 
 
 As you can see from the above screenshot you can see how in the talk Angad takes us through the process of being able to handle 50K cells to 150 million cells.
+
+## Pics: 
+
+![image](https://user-images.githubusercontent.com/32711718/192785922-c1ac4bd9-c5f7-4476-9f0b-fec5643c11b9.png)
+
+
