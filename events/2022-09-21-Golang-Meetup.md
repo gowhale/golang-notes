@@ -3,9 +3,9 @@ Date: 21/09/2022
 Location: Monzo Bank, London
 
 Talks: 
-Talha Altinel - Bundling Tasks with Task File
-Paul Jolly - Go + CUE - a match made in heaven
-Angad Nadkarni - Performance from First Principles
+- Talha Altinel - Bundling Tasks with Task File
+- Paul Jolly - Go + CUE - a match made in heaven
+- Angad Nadkarni - Performance from First Principles
 
 ## Bundling Tasks with Task File
 Talha Altinel gave a great talk about Task Files and their use. It was great to see how tasks can be bundled in task files and combine different processes like running go tests and linters.
@@ -30,6 +30,7 @@ https://cuelang.org/docs/integrations/go/
 ## Performance from First Principles
 Angad Nadkarni demonstrated extreme optimisation of their code. 
 
+<img width="1245" alt="image" src="https://user-images.githubusercontent.com/32711718/192785102-af9b5124-dc92-46d5-82fd-0e3a55e69dc3.png">
 
 Screenshot taken from: https://www.youtube.com/watch?v=-NW7Z-JHOIA 
 
