@@ -7,6 +7,8 @@ Talks:
 - Paul Jolly - Go + CUE - a match made in heaven
 - Angad Nadkarni - Performance from First Principles
 
+Note: I will add links to talks when uploaded.
+
 ## Bundling Tasks with Task File
 Talha Altinel gave a great talk about Task Files and their use. It was great to see how tasks can be bundled in task files and combine different processes like running go tests and linters.
 
